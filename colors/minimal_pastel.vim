@@ -36,7 +36,8 @@ hi Type guifg=Yellow ctermfg=180 guibg=Black ctermbg=16 gui=NONE cterm=NONE term
 hi Function guifg=Yellow ctermfg=180 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
 hi Identifier guifg=Yellow ctermfg=180 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
 hi String guifg=Yellow ctermfg=180 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
-hi MatchParen guifg=White ctermfg=219 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
+" hi MatchParen guifg=White ctermfg=219 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
+hi MatchParen guifg=White ctermfg=213 guibg=Black ctermbg=16 gui=NONE cterm=NONE term=NONE
 
 hi TabLine guifg=Yellow ctermfg=180 guibg=#778899 ctermbg=236 gui=NONE cterm=NONE term=NONE
 hi TabLineSel guifg=White ctermfg=223 guibg=#778899 ctermbg=238 gui=NONE cterm=NONE term=NONE
