@@ -5,7 +5,7 @@ if exists('syntax_on')
    syntax reset
 endif
 
-let g:colors_name = 'minimal_orange_light'
+let g:colors_name = 'kapsy_xerox_white'
 
 hi Normal guifg=Yellow ctermfg=0 guibg=Black ctermbg=15 gui=NONE cterm=NONE term=NONE
 hi Cursor guifg=Black ctermfg=15 guibg=LightGray ctermbg=252 gui=NONE cterm=NONE term=NONE
